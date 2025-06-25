@@ -1,0 +1,23 @@
+{
+  "name": "records-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianAbaroa/Records-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianAbaroa/Records-Web/issues"
+  },
+  "homepage": "https://github.com/JulianAbaroa/Records-Web#readme",
+  "description": "",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0"
+  }
+}
