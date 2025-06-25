@@ -1,8 +1,8 @@
 // Web/netlify/functions/request.js
 
-const { Octokit } = require("@octokit/rest");
-
 exports.handler = async (event) => {
+  const { Octokit } = await import("@octokit/rest");
+
   console.log("🔔 Function hit! Method:", event.httpMethod);
   console.log("Body:", event.body);
 
