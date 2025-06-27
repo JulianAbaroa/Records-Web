@@ -1,9 +1,9 @@
 const cacheName = "PlaceHolder-Records-1.0";
 const contentToCache = [
-    "Build/67ae9879fab59c2dce42cd26880f564e.loader.js",
+    "Build/9abb61c9989c0402de36243c39d011d3.loader.js",
     "Build/bc439b2cb15b0b4ad2b184f862743f05.framework.js.unityweb",
-    "Build/afec0317694d4c6b35ca6f8460f5a463.data.unityweb",
-    "Build/0e2c183d2701ba0c0ad28a771b35fb4f.wasm.unityweb",
+    "Build/406ad0e98955c7ba65d32c62240482a4.data.unityweb",
+    "Build/19e45f48b25d9321d4ffc8dd7446e982.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
