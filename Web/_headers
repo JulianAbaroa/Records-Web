@@ -1,7 +1,13 @@
-/*
+/* 
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, OPTIONS
   Access-Control-Allow-Headers: *
+  Cache-Control: no-cache, no-store, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+
+/index.html
+  Cache-Control: no-cache
 
 /players_manifest.json
   Access-Control-Allow-Origin: *
@@ -11,26 +17,29 @@
 
 /UsersData/*
   Access-Control-Allow-Origin: *
-  
+  Cache-Control: no-store, max-age=0
+
 /Build/*.br
   Content-Encoding: br
   Content-Type: application/javascript
+  Cache-Control: no-cache
 
 /Build/*.wasm.br
   Content-Encoding: br
   Content-Type: application/wasm
+  Cache-Control: no-cache
 
 /Build/*.data.br
   Content-Encoding: br
   Content-Type: application/octet-stream
+  Cache-Control: no-cache
 
 /Build/*.framework.js.br
   Content-Encoding: br
   Content-Type: application/javascript
+  Cache-Control: no-cache
 
 /Build/*.loader.js.br
   Content-Encoding: br
   Content-Type: application/javascript
-
-/*
-  Access-Control-Allow-Origin: *
+  Cache-Control: no-cache
