@@ -1,0 +1,161 @@
+{
+  "Consent": {
+    "Permission": true
+  },
+  "FirstType": {
+    "UserGroup": "Second",
+    "TotalPoints": 124,
+    "FirstGroupPoints": 86,
+    "SecondGroupPoints": 38,
+    "TotalParticipation": 0.11290322580645161,
+    "TotalGroupParticipation": 0.3684210526315789,
+    "TypePoints": 0,
+    "TypeRestores": 0,
+    "TypeTime": 0.8333333333333334
+  },
+  "Fight": {
+    "Points": 14,
+    "PointsPerMinute": 1.6091954022988506,
+    "Fails": 5,
+    "FailsPerMinute": 0.574712643678161,
+    "Supports": 0,
+    "Involvements": 19,
+    "InvolvementsPerMinute": 2.1839080459770117,
+    "ConsecutivePoints": 6,
+    "KDRatio": 2.8,
+    "KDARatio": 2.8
+  },
+  "Scores": {
+    "TotalScore": 790,
+    "PointsScore": 280,
+    "AwardsScore": 510
+  },
+  "Awards": {
+    "TotalAwards": 12,
+    "AwardsPerPoint": 0.8571428571428571,
+    "AwardsPerMinute": 1.3793103448275863,
+    "AwardsObtainedByPoints": 12,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 0,
+        "Assist": 0,
+        "Avenger": 0,
+        "BeatDown": 0,
+        "BullTrue": 0,
+        "CloseCall": 1,
+        "DoubleKill": 1,
+        "EMPKill": 0,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 0,
+        "FlagKill": 0,
+        "GrenadeStick": 1,
+        "Headcase": 0,
+        "Headshot": 1,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 0,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 0,
+        "KillingSpree": 1,
+        "Killionaire": 0,
+        "Killjoy": 1,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 3,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 0,
+        "Rampage": 0,
+        "ReloadThis": 1,
+        "Revenge": 1,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 1,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 0,
+        "SwordSpree": 0,
+        "TripleKill": 0,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 0,
+        "Yoink": 0,
+        "Firebird": 0,
+        "Unknown": 0
+      }
+    }
+  },
+  "KeyStats": {
+    "TotalScore": 790,
+    "TotalPlays": 1,
+    "TotalTime": 0.155,
+    "UserYouPointedMost": "Blonded ve",
+    "UserWhoPointedYouMost": "Tyojori",
+    "FavoriteGun": "Rocket Launcher"
+  },
+  "Identity": {
+    "Username": "Kota4985",
+    "Credential_1": "308",
+    "Credential_2": "pilot"
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "Blonded ve",
+    "TimesYouPointedThem": 3,
+    "RatioOfYourPointsOnThem": 0.21428571428571427,
+    "UserWhoPointedYouMost": "Tyojori",
+    "TimesTheyPointedYou": 2,
+    "RatioOfYourFailsByThem": 0.4
+  },
+  "Penalties": {
+    "Penaltie_1": 2,
+    "Penalties1PerFails": 0.4,
+    "Penaltie_2": 0,
+    "Penalties2PerPoints": 0
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Summary 2025-06-27",
+    "ID": null
+  },
+  "Survivability": {
+    "LivingMinutes": 8.7,
+    "TotalMinutes": 9.3,
+    "ATRatio": 0.9354838709677418
+  },
+  "UserChoice": {
+    "FavoriteGun": "Rocket Launcher",
+    "FavoriteGunPoints": 7,
+    "FavoriteGunPointsRatio": 0.875
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 8,
+    "PointsWithExplosives": 1,
+    "PointsWithHits": 3,
+    "UnknownPoints": 2,
+    "GunsPointsRatio": 0.5714285714285714,
+    "ExplosionsPointsRatio": 0.07142857142857142,
+    "HitsPointsRatio": 0.21428571428571427,
+    "UnknownPointsRatio": 0.14285714285714285,
+    "ContributionRatio": 0.8045977011494253,
+    "PointSuccessRatio": 0.7368421052631579
+  }
+}

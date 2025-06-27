@@ -1,0 +1,153 @@
+{
+  "Consent": {
+    "Permission": false
+  },
+  "Fight": {
+    "Points": 61,
+    "PointsPerMinute": 1.5218295218295217,
+    "Fails": 45,
+    "FailsPerMinute": 1.1226611226611225,
+    "Supports": 3,
+    "Involvements": 109,
+    "InvolvementsPerMinute": 2.7193347193347193,
+    "ConsecutivePoints": 9,
+    "KDRatio": 1.3555555555555556,
+    "KDARatio": 1.4222222222222223
+  },
+  "Scores": {
+    "TotalScore": 3960,
+    "PointsScore": 1220,
+    "AwardsScore": 2740
+  },
+  "Awards": {
+    "TotalAwards": 72,
+    "AwardsPerPoint": 1.1311475409836065,
+    "AwardsPerMinute": 1.7962577962577961,
+    "AwardsObtainedByPoints": 69,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 2,
+        "Assist": 3,
+        "Avenger": 3,
+        "BeatDown": 0,
+        "BullTrue": 0,
+        "CloseCall": 1,
+        "DoubleKill": 3,
+        "EMPKill": 11,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 5,
+        "FlagKill": 1,
+        "GrenadeStick": 0,
+        "Headcase": 2,
+        "Headshot": 15,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 0,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 0,
+        "KillingSpree": 3,
+        "Killionaire": 0,
+        "Killjoy": 3,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 6,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 1,
+        "Rampage": 0,
+        "ReloadThis": 4,
+        "Revenge": 2,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 0,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 3,
+        "SwordSpree": 0,
+        "TripleKill": 0,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 3,
+        "Yoink": 0,
+        "Firebird": 1,
+        "Unknown": 0
+      }
+    }
+  },
+  "Identity": {
+    "Username": "l Aeldeek l",
+    "Credential_1": "MEH",
+    "Credential_2": "I AM THE MEH"
+  },
+  "FirstType": {
+    "UserGroup": "First",
+    "TotalPoints": 700,
+    "FirstGroupPoints": 299,
+    "SecondGroupPoints": 401,
+    "TotalParticipation": 0.08714285714285715,
+    "TotalGroupParticipation": 0.2040133779264214,
+    "TypePoints": 0,
+    "TypeRestores": 1,
+    "TypeTime": 1.8666666666666667
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "CookieMonstr92",
+    "TimesYouPointedThem": 13,
+    "RatioOfYourPointsOnThem": 0.21311475409836064,
+    "UserWhoPointedYouMost": "TheeDorkKnight",
+    "TimesTheyPointedYou": 15,
+    "RatioOfYourFailsByThem": 0.3333333333333333
+  },
+  "Penalties": {
+    "Penaltie_1": 3,
+    "Penalties1PerFails": 0.06666666666666667,
+    "Penaltie_2": 0,
+    "Penalties2PerPoints": 0
+  },
+  "UserChoice": {
+    "FavoriteGun": "Needler Rifle",
+    "FavoriteGunPoints": 15,
+    "FavoriteGunPointsRatio": 0.3125
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Report 2025-05-24.0",
+    "ID": "0a36d6ca-28e2-9575-e458-3feb1abbb884"
+  },
+  "Survivability": {
+    "LivingMinutes": 40.083333333333336,
+    "TotalMinutes": 44.03333333333333,
+    "ATRatio": 0.9102952308856926
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 48,
+    "PointsWithExplosives": 1,
+    "PointsWithHits": 8,
+    "UnknownPoints": 4,
+    "GunsPointsRatio": 0.7868852459016393,
+    "ExplosionsPointsRatio": 0.01639344262295082,
+    "HitsPointsRatio": 0.13114754098360656,
+    "UnknownPointsRatio": 0.06557377049180328,
+    "ContributionRatio": 0.7983367983367983,
+    "PointSuccessRatio": 0.5754716981132075
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "Consent": {
+    "Permission": false
+  },
+  "Fight": {
+    "Points": 97,
+    "PointsPerMinute": 1.2779973649538865,
+    "Fails": 41,
+    "FailsPerMinute": 0.5401844532279314,
+    "Supports": 14,
+    "Involvements": 152,
+    "InvolvementsPerMinute": 2.0026350461133067,
+    "ConsecutivePoints": 10,
+    "KDRatio": 2.3658536585365852,
+    "KDARatio": 2.707317073170732
+  },
+  "Scores": {
+    "TotalScore": 6750,
+    "PointsScore": 1940,
+    "AwardsScore": 4810
+  },
+  "Awards": {
+    "TotalAwards": 128,
+    "AwardsPerPoint": 1.134020618556701,
+    "AwardsPerMinute": 1.686429512516469,
+    "AwardsObtainedByPoints": 110,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 1,
+        "Assist": 14,
+        "Avenger": 3,
+        "BeatDown": 4,
+        "BullTrue": 0,
+        "CloseCall": 0,
+        "DoubleKill": 6,
+        "EMPKill": 11,
+        "FirstStrike": 0,
+        "FlagScore": 4,
+        "KilledFlagCarrier": 5,
+        "FlagKill": 2,
+        "GrenadeStick": 11,
+        "Headcase": 0,
+        "Headshot": 9,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 2,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 1,
+        "KillingSpree": 7,
+        "Killionaire": 0,
+        "Killjoy": 2,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 19,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 1,
+        "Rampage": 0,
+        "ReloadThis": 4,
+        "Revenge": 7,
+        "RunningRiot": 0,
+        "ShotgunSpree": 1,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 5,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 4,
+        "SwordSpree": 1,
+        "TripleKill": 1,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 2,
+        "Yoink": 0,
+        "Firebird": 1,
+        "Unknown": 0
+      }
+    }
+  },
+  "Identity": {
+    "Username": "VexerNight",
+    "Credential_1": "DNA",
+    "Credential_2": "Halo"
+  },
+  "FirstType": {
+    "UserGroup": "First",
+    "TotalPoints": 508,
+    "FirstGroupPoints": 391,
+    "SecondGroupPoints": 117,
+    "TotalParticipation": 0.19094488188976377,
+    "TotalGroupParticipation": 0.24808184143222506,
+    "TypePoints": 4,
+    "TypeRestores": 4,
+    "TypeTime": 5.916666666666667
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "HarlanMcIvor",
+    "TimesYouPointedThem": 8,
+    "RatioOfYourPointsOnThem": 0.08247422680412371,
+    "UserWhoPointedYouMost": "HarlanMcIvor",
+    "TimesTheyPointedYou": 9,
+    "RatioOfYourFailsByThem": 0.21951219512195122
+  },
+  "Penalties": {
+    "Penaltie_1": 4,
+    "Penalties1PerFails": 0.0975609756097561,
+    "Penaltie_2": 0,
+    "Penalties2PerPoints": 0
+  },
+  "UserChoice": {
+    "FavoriteGun": "DMR",
+    "FavoriteGunPoints": 16,
+    "FavoriteGunPointsRatio": 0.3404255319148936
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Report 2025-05-24.1",
+    "ID": "9206132a-8530-3f47-e436-5d3a3adfa0be"
+  },
+  "Survivability": {
+    "LivingMinutes": 75.9,
+    "TotalMinutes": 79.78333333333333,
+    "ATRatio": 0.95132650929601
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 47,
+    "PointsWithExplosives": 12,
+    "PointsWithHits": 24,
+    "UnknownPoints": 14,
+    "GunsPointsRatio": 0.4845360824742268,
+    "ExplosionsPointsRatio": 0.12371134020618557,
+    "HitsPointsRatio": 0.24742268041237114,
+    "UnknownPointsRatio": 0.14432989690721648,
+    "ContributionRatio": 0.7312252964426877,
+    "PointSuccessRatio": 0.7028985507246377
+  }
+}

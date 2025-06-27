@@ -1,4 +1,7 @@
 {
+  "Consent": {
+    "Permission": false
+  },
   "Fight": {
     "Points": 45,
     "PointsPerMinute": 0.9127789046653144,
@@ -91,7 +94,6 @@
     }
   },
   "Identity": {
-    "IsRequested": true,
     "Username": "PlaceHolder021",
     "Credential_1": "021",
     "Credential_2": "UNSC"

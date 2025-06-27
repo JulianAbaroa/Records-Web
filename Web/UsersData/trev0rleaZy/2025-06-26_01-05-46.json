@@ -1,0 +1,153 @@
+{
+  "Consent": {
+    "Permission": false
+  },
+  "Fight": {
+    "Points": 52,
+    "PointsPerMinute": 0.5248107653490328,
+    "Fails": 55,
+    "FailsPerMinute": 0.5550883095037847,
+    "Supports": 7,
+    "Involvements": 114,
+    "InvolvementsPerMinute": 1.150546677880572,
+    "ConsecutivePoints": 6,
+    "KDRatio": 0.9454545454545454,
+    "KDARatio": 1.0727272727272728
+  },
+  "Scores": {
+    "TotalScore": 2610,
+    "PointsScore": 1040,
+    "AwardsScore": 1570
+  },
+  "Awards": {
+    "TotalAwards": 43,
+    "AwardsPerPoint": 0.6923076923076923,
+    "AwardsPerMinute": 0.43397813288477716,
+    "AwardsObtainedByPoints": 36,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 0,
+        "Assist": 7,
+        "Avenger": 0,
+        "BeatDown": 0,
+        "BullTrue": 0,
+        "CloseCall": 0,
+        "DoubleKill": 2,
+        "EMPKill": 2,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 2,
+        "FlagKill": 2,
+        "GrenadeStick": 1,
+        "Headcase": 0,
+        "Headshot": 2,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 3,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 0,
+        "KillingSpree": 2,
+        "Killionaire": 0,
+        "Killjoy": 0,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 2,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 3,
+        "Rampage": 0,
+        "ReloadThis": 1,
+        "Revenge": 8,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 3,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 1,
+        "SwordSpree": 0,
+        "TripleKill": 0,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 1,
+        "Yoink": 1,
+        "Firebird": 0,
+        "Unknown": 0
+      }
+    }
+  },
+  "Identity": {
+    "Username": "trev0rleaZy",
+    "Credential_1": "321",
+    "Credential_2": "UNSC"
+  },
+  "FirstType": {
+    "UserGroup": "Second",
+    "TotalPoints": 599,
+    "FirstGroupPoints": 166,
+    "SecondGroupPoints": 433,
+    "TotalParticipation": 0.08681135225375626,
+    "TotalGroupParticipation": 0.12009237875288684,
+    "TypePoints": 0,
+    "TypeRestores": 2,
+    "TypeTime": 0.7166666666666667
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "OnlyDark212935",
+    "TimesYouPointedThem": 4,
+    "RatioOfYourPointsOnThem": 0.07692307692307693,
+    "UserWhoPointedYouMost": "II Arze II1621",
+    "TimesTheyPointedYou": 4,
+    "RatioOfYourFailsByThem": 0.07272727272727272
+  },
+  "Penalties": {
+    "Penaltie_1": 8,
+    "Penalties1PerFails": 0.14545454545454545,
+    "Penaltie_2": 2,
+    "Penalties2PerPoints": 0.038461538461538464
+  },
+  "UserChoice": {
+    "FavoriteGun": "Fuel Rod Cannon",
+    "FavoriteGunPoints": 12,
+    "FavoriteGunPointsRatio": 0.3333333333333333
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Report 2025-06-26.1",
+    "ID": "d35e090e-ae99-2130-e287-3659f66b0591"
+  },
+  "Survivability": {
+    "LivingMinutes": 99.08333333333333,
+    "TotalMinutes": 104.46666666666667,
+    "ATRatio": 0.948468410976388
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 36,
+    "PointsWithExplosives": 4,
+    "PointsWithHits": 2,
+    "UnknownPoints": 10,
+    "GunsPointsRatio": 0.6923076923076923,
+    "ExplosionsPointsRatio": 0.07692307692307693,
+    "HitsPointsRatio": 0.038461538461538464,
+    "UnknownPointsRatio": 0.19230769230769232,
+    "ContributionRatio": 0.2977291841883936,
+    "PointSuccessRatio": 0.48598130841121495
+  }
+}

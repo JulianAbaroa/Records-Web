@@ -1,0 +1,153 @@
+{
+  "Consent": {
+    "Permission": false
+  },
+  "Fight": {
+    "Points": 30,
+    "PointsPerMinute": 0.4947773501924134,
+    "Fails": 42,
+    "FailsPerMinute": 0.6926882902693788,
+    "Supports": 8,
+    "Involvements": 80,
+    "InvolvementsPerMinute": 1.319406267179769,
+    "ConsecutivePoints": 10,
+    "KDRatio": 0.7142857142857143,
+    "KDARatio": 0.9047619047619048
+  },
+  "Scores": {
+    "TotalScore": 1920,
+    "PointsScore": 600,
+    "AwardsScore": 1320
+  },
+  "Awards": {
+    "TotalAwards": 36,
+    "AwardsPerPoint": 0.8666666666666667,
+    "AwardsPerMinute": 0.5937328202308961,
+    "AwardsObtainedByPoints": 26,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 0,
+        "Assist": 7,
+        "Avenger": 1,
+        "BeatDown": 0,
+        "BullTrue": 0,
+        "CloseCall": 0,
+        "DoubleKill": 3,
+        "EMPKill": 8,
+        "FirstStrike": 0,
+        "FlagScore": 2,
+        "KilledFlagCarrier": 0,
+        "FlagKill": 0,
+        "GrenadeStick": 1,
+        "Headcase": 0,
+        "Headshot": 1,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 0,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 1,
+        "KillingSpree": 1,
+        "Killionaire": 0,
+        "Killjoy": 0,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 1,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 0,
+        "Rampage": 0,
+        "ReloadThis": 1,
+        "Revenge": 1,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 2,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 1,
+        "SwordSpree": 0,
+        "TripleKill": 1,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 1,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 1,
+        "Yoink": 0,
+        "Firebird": 2,
+        "Unknown": 0
+      }
+    }
+  },
+  "Identity": {
+    "Username": "Sing2Singhs",
+    "Credential_1": "FNX",
+    "Credential_2": "UNSC"
+  },
+  "FirstType": {
+    "UserGroup": "First",
+    "TotalPoints": 576,
+    "FirstGroupPoints": 215,
+    "SecondGroupPoints": 361,
+    "TotalParticipation": 0.052083333333333336,
+    "TotalGroupParticipation": 0.13953488372093023,
+    "TypePoints": 2,
+    "TypeRestores": 1,
+    "TypeTime": 1.5333333333333334
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "l Aeldeek l",
+    "TimesYouPointedThem": 2,
+    "RatioOfYourPointsOnThem": 0.06666666666666667,
+    "UserWhoPointedYouMost": "l Aeldeek l",
+    "TimesTheyPointedYou": 6,
+    "RatioOfYourFailsByThem": 0.14285714285714285
+  },
+  "Penalties": {
+    "Penaltie_1": 2,
+    "Penalties1PerFails": 0.047619047619047616,
+    "Penaltie_2": 2,
+    "Penalties2PerPoints": 0.06666666666666667
+  },
+  "UserChoice": {
+    "FavoriteGun": "Wraith",
+    "FavoriteGunPoints": 12,
+    "FavoriteGunPointsRatio": 0.9230769230769231
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Report 2025-06-26.1",
+    "ID": "9576cc61-83dc-21a4-27af-419ca2515c2b"
+  },
+  "Survivability": {
+    "LivingMinutes": 60.63333333333333,
+    "TotalMinutes": 65.16666666666667,
+    "ATRatio": 0.9304347826086956
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 13,
+    "PointsWithExplosives": 1,
+    "PointsWithHits": 2,
+    "UnknownPoints": 14,
+    "GunsPointsRatio": 0.43333333333333335,
+    "ExplosionsPointsRatio": 0.03333333333333333,
+    "HitsPointsRatio": 0.06666666666666667,
+    "UnknownPointsRatio": 0.4666666666666667,
+    "ContributionRatio": 0.31335898845519516,
+    "PointSuccessRatio": 0.4166666666666667
+  }
+}

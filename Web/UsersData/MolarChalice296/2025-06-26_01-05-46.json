@@ -1,0 +1,153 @@
+{
+  "Consent": {
+    "Permission": false
+  },
+  "Fight": {
+    "Points": 29,
+    "PointsPerMinute": 0.5056669572798604,
+    "Fails": 61,
+    "FailsPerMinute": 1.063644289450741,
+    "Supports": 8,
+    "Involvements": 98,
+    "InvolvementsPerMinute": 1.7088055797733217,
+    "ConsecutivePoints": 3,
+    "KDRatio": 0.47540983606557374,
+    "KDARatio": 0.6065573770491803
+  },
+  "Scores": {
+    "TotalScore": 1650,
+    "PointsScore": 580,
+    "AwardsScore": 1070
+  },
+  "Awards": {
+    "TotalAwards": 35,
+    "AwardsPerPoint": 0.9310344827586207,
+    "AwardsPerMinute": 0.6102877070619006,
+    "AwardsObtainedByPoints": 27,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 0,
+        "Assist": 7,
+        "Avenger": 1,
+        "BeatDown": 1,
+        "BullTrue": 0,
+        "CloseCall": 0,
+        "DoubleKill": 2,
+        "EMPKill": 10,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 1,
+        "FlagKill": 0,
+        "GrenadeStick": 3,
+        "Headcase": 1,
+        "Headshot": 2,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 1,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 0,
+        "KillingSpree": 0,
+        "Killionaire": 0,
+        "Killjoy": 0,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 0,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 0,
+        "Rampage": 0,
+        "ReloadThis": 3,
+        "Revenge": 1,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 0,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 0,
+        "SwordSpree": 0,
+        "TripleKill": 0,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 1,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 1,
+        "Yoink": 0,
+        "Firebird": 0,
+        "Unknown": 0
+      }
+    }
+  },
+  "Identity": {
+    "Username": "MolarChalice296",
+    "Credential_1": "Tan",
+    "Credential_2": "Mala*Suerte"
+  },
+  "FirstType": {
+    "UserGroup": "First",
+    "TotalPoints": 599,
+    "FirstGroupPoints": 166,
+    "SecondGroupPoints": 433,
+    "TotalParticipation": 0.048414023372287146,
+    "TotalGroupParticipation": 0.1746987951807229,
+    "TypePoints": 0,
+    "TypeRestores": 1,
+    "TypeTime": 2.2666666666666666
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "PlaceHolder021",
+    "TimesYouPointedThem": 6,
+    "RatioOfYourPointsOnThem": 0.20689655172413793,
+    "UserWhoPointedYouMost": "l Aeldeek l",
+    "TimesTheyPointedYou": 18,
+    "RatioOfYourFailsByThem": 0.29508196721311475
+  },
+  "Penalties": {
+    "Penaltie_1": 6,
+    "Penalties1PerFails": 0.09836065573770492,
+    "Penaltie_2": 1,
+    "Penalties2PerPoints": 0.034482758620689655
+  },
+  "UserChoice": {
+    "FavoriteGun": "Grenade Launcher",
+    "FavoriteGunPoints": 11,
+    "FavoriteGunPointsRatio": 0.55
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Report 2025-06-26.1",
+    "ID": "d35e090e-ae99-2130-e287-3659f66b0591"
+  },
+  "Survivability": {
+    "LivingMinutes": 57.35,
+    "TotalMinutes": 63.1,
+    "ATRatio": 0.9088748019017433
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 20,
+    "PointsWithExplosives": 6,
+    "PointsWithHits": 1,
+    "UnknownPoints": 2,
+    "GunsPointsRatio": 0.6896551724137931,
+    "ExplosionsPointsRatio": 0.20689655172413793,
+    "HitsPointsRatio": 0.034482758620689655,
+    "UnknownPointsRatio": 0.06896551724137931,
+    "ContributionRatio": 0.3225806451612903,
+    "PointSuccessRatio": 0.32222222222222224
+  }
+}

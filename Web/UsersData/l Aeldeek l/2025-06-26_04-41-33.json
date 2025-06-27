@@ -1,0 +1,153 @@
+{
+  "Consent": {
+    "Permission": false
+  },
+  "Fight": {
+    "Points": 161,
+    "PointsPerMinute": 2.6037735849056602,
+    "Fails": 42,
+    "FailsPerMinute": 0.6792452830188679,
+    "Supports": 9,
+    "Involvements": 212,
+    "InvolvementsPerMinute": 3.4285714285714284,
+    "ConsecutivePoints": 36,
+    "KDRatio": 3.8333333333333335,
+    "KDARatio": 4.0476190476190474
+  },
+  "Scores": {
+    "TotalScore": 12370,
+    "PointsScore": 3220,
+    "AwardsScore": 9150
+  },
+  "Awards": {
+    "TotalAwards": 191,
+    "AwardsPerPoint": 1.1304347826086956,
+    "AwardsPerMinute": 3.0889487870619945,
+    "AwardsObtainedByPoints": 182,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 3,
+        "Assist": 9,
+        "Avenger": 7,
+        "BeatDown": 2,
+        "BullTrue": 0,
+        "CloseCall": 3,
+        "DoubleKill": 24,
+        "EMPKill": 12,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 2,
+        "FlagKill": 0,
+        "GrenadeStick": 1,
+        "Headcase": 4,
+        "Headshot": 33,
+        "Hijack": 0,
+        "Inconceivable": 1,
+        "Invincible": 1,
+        "KillFromTheGrave": 0,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 1,
+        "KillingSpree": 10,
+        "Killionaire": 0,
+        "Killjoy": 0,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 33,
+        "OpenSeason": 0,
+        "Overkill": 1,
+        "Protector": 1,
+        "Rampage": 1,
+        "ReloadThis": 6,
+        "Revenge": 5,
+        "RunningRiot": 1,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 2,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 6,
+        "SwordSpree": 2,
+        "TripleKill": 5,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 1,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 3,
+        "Yoink": 0,
+        "Firebird": 11,
+        "Unknown": 0
+      }
+    }
+  },
+  "Identity": {
+    "Username": "l Aeldeek l",
+    "Credential_1": "MEH",
+    "Credential_2": "I AM THE MEH"
+  },
+  "FirstType": {
+    "UserGroup": "Second",
+    "TotalPoints": 576,
+    "FirstGroupPoints": 215,
+    "SecondGroupPoints": 361,
+    "TotalParticipation": 0.2795138888888889,
+    "TotalGroupParticipation": 0.44598337950138506,
+    "TypePoints": 0,
+    "TypeRestores": 0,
+    "TypeTime": 1.0333333333333334
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "YoshikiRev",
+    "TimesYouPointedThem": 27,
+    "RatioOfYourPointsOnThem": 0.16770186335403728,
+    "UserWhoPointedYouMost": "YoshikiRev",
+    "TimesTheyPointedYou": 9,
+    "RatioOfYourFailsByThem": 0.21428571428571427
+  },
+  "Penalties": {
+    "Penaltie_1": 1,
+    "Penalties1PerFails": 0.023809523809523808,
+    "Penaltie_2": 0,
+    "Penalties2PerPoints": 0
+  },
+  "UserChoice": {
+    "FavoriteGun": "Fuel Rod Cannon",
+    "FavoriteGunPoints": 56,
+    "FavoriteGunPointsRatio": 0.49122807017543857
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Report 2025-06-26.1",
+    "ID": "9576cc61-83dc-21a4-27af-419ca2515c2b"
+  },
+  "Survivability": {
+    "LivingMinutes": 61.833333333333336,
+    "TotalMinutes": 65.48333333333333,
+    "ATRatio": 0.9442606261135149
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 114,
+    "PointsWithExplosives": 6,
+    "PointsWithHits": 39,
+    "UnknownPoints": 2,
+    "GunsPointsRatio": 0.7080745341614907,
+    "ExplosionsPointsRatio": 0.037267080745341616,
+    "HitsPointsRatio": 0.2422360248447205,
+    "UnknownPointsRatio": 0.012422360248447204,
+    "ContributionRatio": 1.3746630727762803,
+    "PointSuccessRatio": 0.7931034482758621
+  }
+}

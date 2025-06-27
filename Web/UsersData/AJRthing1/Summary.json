@@ -1,0 +1,161 @@
+{
+  "Consent": {
+    "Permission": true
+  },
+  "FirstType": {
+    "UserGroup": "First",
+    "TotalPoints": 189,
+    "FirstGroupPoints": 152,
+    "SecondGroupPoints": 37,
+    "TotalParticipation": 0.031746031746031744,
+    "TotalGroupParticipation": 0.039473684210526314,
+    "TypePoints": 0,
+    "TypeRestores": 0,
+    "TypeTime": 0
+  },
+  "Fight": {
+    "Points": 6,
+    "PointsPerMinute": 0.7578947368421053,
+    "Fails": 4,
+    "FailsPerMinute": 0.5052631578947369,
+    "Supports": 1,
+    "Involvements": 11,
+    "InvolvementsPerMinute": 1.3894736842105262,
+    "ConsecutivePoints": 4,
+    "KDRatio": 1.5,
+    "KDARatio": 1.75
+  },
+  "Scores": {
+    "TotalScore": 370,
+    "PointsScore": 120,
+    "AwardsScore": 250
+  },
+  "Awards": {
+    "TotalAwards": 9,
+    "AwardsPerPoint": 1.3333333333333333,
+    "AwardsPerMinute": 1.1368421052631579,
+    "AwardsObtainedByPoints": 8,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 0,
+        "Assist": 1,
+        "Avenger": 1,
+        "BeatDown": 1,
+        "BullTrue": 0,
+        "CloseCall": 0,
+        "DoubleKill": 0,
+        "EMPKill": 0,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 2,
+        "FlagKill": 0,
+        "GrenadeStick": 0,
+        "Headcase": 0,
+        "Headshot": 1,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 0,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 0,
+        "KillingSpree": 0,
+        "Killionaire": 0,
+        "Killjoy": 0,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 2,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 0,
+        "Rampage": 0,
+        "ReloadThis": 0,
+        "Revenge": 1,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 0,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 0,
+        "SwordSpree": 0,
+        "TripleKill": 0,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 0,
+        "Yoink": 0,
+        "Firebird": 0,
+        "Unknown": 0
+      }
+    }
+  },
+  "KeyStats": {
+    "TotalScore": 370,
+    "TotalPlays": 1,
+    "TotalTime": 0.13944444444444445,
+    "UserYouPointedMost": "PlaceHolder021",
+    "UserWhoPointedYouMost": "PlaceHolder021",
+    "FavoriteGun": "DMR"
+  },
+  "Identity": {
+    "Username": "AJRthing1",
+    "Credential_1": "Ajr",
+    "Credential_2": "Nrth (retired)"
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "PlaceHolder021",
+    "TimesYouPointedThem": 3,
+    "RatioOfYourPointsOnThem": 0.5,
+    "UserWhoPointedYouMost": "PlaceHolder021",
+    "TimesTheyPointedYou": 2,
+    "RatioOfYourFailsByThem": 0.5
+  },
+  "Penalties": {
+    "Penaltie_1": 0,
+    "Penalties1PerFails": 0,
+    "Penaltie_2": 0,
+    "Penalties2PerPoints": 0
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Summary 2025-06-27",
+    "ID": null
+  },
+  "Survivability": {
+    "LivingMinutes": 7.916666666666667,
+    "TotalMinutes": 8.366666666666667,
+    "ATRatio": 0.946215139442231
+  },
+  "UserChoice": {
+    "FavoriteGun": "DMR",
+    "FavoriteGunPoints": 2,
+    "FavoriteGunPointsRatio": 0.6666666666666666
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 3,
+    "PointsWithExplosives": 0,
+    "PointsWithHits": 3,
+    "UnknownPoints": 0,
+    "GunsPointsRatio": 0.5,
+    "ExplosionsPointsRatio": 0,
+    "HitsPointsRatio": 0.5,
+    "UnknownPointsRatio": 0,
+    "ContributionRatio": 0.4421052631578947,
+    "PointSuccessRatio": 0.6
+  }
+}

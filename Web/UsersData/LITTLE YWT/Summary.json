@@ -1,0 +1,161 @@
+{
+  "Consent": {
+    "Permission": true
+  },
+  "FirstType": {
+    "UserGroup": "Second",
+    "TotalPoints": 3067,
+    "FirstGroupPoints": 1645,
+    "SecondGroupPoints": 1422,
+    "TotalParticipation": 0.04075643951744375,
+    "TotalGroupParticipation": 0.06613756613756613,
+    "TypePoints": 0,
+    "TypeRestores": 5,
+    "TypeTime": 2.1500000000000004
+  },
+  "Fight": {
+    "Points": 125,
+    "PointsPerMinute": 0.7099583491101854,
+    "Fails": 150,
+    "FailsPerMinute": 0.8519500189322226,
+    "Supports": 22,
+    "Involvements": 297,
+    "InvolvementsPerMinute": 1.6868610374858006,
+    "ConsecutivePoints": 6,
+    "KDRatio": 0.8333333333333334,
+    "KDARatio": 0.98
+  },
+  "Scores": {
+    "TotalScore": 6080,
+    "PointsScore": 2500,
+    "AwardsScore": 3580
+  },
+  "Awards": {
+    "TotalAwards": 118,
+    "AwardsPerPoint": 0.768,
+    "AwardsPerMinute": 0.670200681560015,
+    "AwardsObtainedByPoints": 96,
+    "AwardsInfo": {
+      "Types": {
+        "Assassin": 0,
+        "Assist": 22,
+        "Avenger": 4,
+        "BeatDown": 3,
+        "BullTrue": 1,
+        "CloseCall": 0,
+        "DoubleKill": 2,
+        "EMPKill": 5,
+        "FirstStrike": 0,
+        "FlagScore": 0,
+        "KilledFlagCarrier": 4,
+        "FlagKill": 1,
+        "GrenadeStick": 0,
+        "Headcase": 0,
+        "Headshot": 6,
+        "Hijack": 0,
+        "Inconceivable": 0,
+        "Invincible": 0,
+        "KillFromTheGrave": 1,
+        "KillimanKijaro": 0,
+        "KillingFrenzy": 0,
+        "KillingSpree": 5,
+        "Killionaire": 0,
+        "Killjoy": 3,
+        "Killpocalypse": 0,
+        "Killtacular": 0,
+        "Killtastrophe": 0,
+        "Killtrocity": 0,
+        "LaserKill": 0,
+        "Pummel": 35,
+        "OpenSeason": 0,
+        "Overkill": 0,
+        "Protector": 0,
+        "Rampage": 0,
+        "ReloadThis": 4,
+        "Revenge": 10,
+        "RunningRiot": 0,
+        "ShotgunSpree": 0,
+        "Showstopper": 0,
+        "Skyjack": 0,
+        "SliceNDice": 0,
+        "Splatter": 5,
+        "SplatterSpree": 0,
+        "NeedleCombineKill": 0,
+        "SwordSpree": 0,
+        "TripleKill": 0,
+        "Unfrigginbelievable": 0,
+        "Untouchable": 0,
+        "VehicularManslaughter": 0,
+        "Wheelman": 0,
+        "BuckWild": 0,
+        "SundayDriver": 0,
+        "CuttingCrew": 0,
+        "StickSpree": 0,
+        "StickyFingers": 0,
+        "Corrected": 0,
+        "HammerSpree": 0,
+        "DreamCrusher": 0,
+        "WreckingCrew": 0,
+        "SniperKill": 0,
+        "Pull": 4,
+        "Yoink": 0,
+        "Firebird": 3,
+        "Unknown": 0
+      }
+    }
+  },
+  "KeyStats": {
+    "TotalScore": 6080,
+    "TotalPlays": 4,
+    "TotalTime": 3.1608333333333336,
+    "UserYouPointedMost": "YoshikiRev",
+    "UserWhoPointedYouMost": "YoshikiRev",
+    "FavoriteGun": "Scorpion"
+  },
+  "Identity": {
+    "Username": "LITTLE YWT",
+    "Credential_1": "ZZZ",
+    "Credential_2": "343WCNM"
+  },
+  "Rivalries": {
+    "UserYouPointedMost": "YoshikiRev",
+    "TimesYouPointedThem": 10,
+    "RatioOfYourPointsOnThem": 0.08,
+    "UserWhoPointedYouMost": "YoshikiRev",
+    "TimesTheyPointedYou": 11,
+    "RatioOfYourFailsByThem": 0.07333333333333333
+  },
+  "Penalties": {
+    "Penaltie_1": 14,
+    "Penalties1PerFails": 0.09333333333333334,
+    "Penaltie_2": 0,
+    "Penalties2PerPoints": 0
+  },
+  "ContextInfo": {
+    "Type": "FirstType",
+    "Name": "Summary 2025-06-27",
+    "ID": null
+  },
+  "Survivability": {
+    "LivingMinutes": 176.0666666666667,
+    "TotalMinutes": 189.65,
+    "ATRatio": 0.9283768345197294
+  },
+  "UserChoice": {
+    "FavoriteGun": "Scorpion",
+    "FavoriteGunPoints": 11,
+    "FavoriteGunPointsRatio": 0.2558139534883721
+  },
+  "PointsBreakdown": {
+    "PointsWithGuns": 43,
+    "PointsWithExplosives": 3,
+    "PointsWithHits": 40,
+    "UnknownPoints": 39,
+    "GunsPointsRatio": 0.344,
+    "ExplosionsPointsRatio": 0.024,
+    "HitsPointsRatio": 0.32,
+    "UnknownPointsRatio": 0.312,
+    "ContributionRatio": 0.41745550927678904,
+    "PointSuccessRatio": 0.45454545454545453
+  }
+}
