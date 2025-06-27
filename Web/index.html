@@ -1,5 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-us">
+  <script>
+    const CURRENT_BUILD_VERSION = "2025-06-27.1"; // cambia en cada build
+
+    const storedVersion = localStorage.getItem("build_version");
+
+    if (storedVersion !== CURRENT_BUILD_VERSION) {
+      localStorage.setItem("build_version", CURRENT_BUILD_VERSION);
+      // Fuerza recarga completa para que se tome el nuevo HTML y assets
+      window.location.reload(true);
+    }
+  </script>
+
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
